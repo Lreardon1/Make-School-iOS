@@ -1,2 +1,2 @@
 # Make School Projects
-This app continuously takes in a value in USD and converts it into Euros
+A collection of iOS apps written in Swift at Make School 2018 Summer Academy
